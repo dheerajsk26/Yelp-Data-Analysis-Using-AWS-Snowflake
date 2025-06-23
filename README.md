@@ -11,6 +11,9 @@ In this end-to-end data analysis project, I processed over 7 million Yelp review
 * Sentiment Analysis → SQL UDFs
 * Business Insights → SQL queries
 
+  <img width="1331" alt="Project_flow" src="https://github.com/user-attachments/assets/2c622e02-4201-4adb-af10-47b5e3f6a816" />
+
+
 ## Key Takeaways:
 * Efficiently handled large datasets by splitting a massive JSON file into smaller, manageable chunks for better performance.
 * Migrated data from AWS S3 to Snowflake using the COPY command with optimized file formats for faster ingestion.
@@ -21,6 +24,7 @@ In this end-to-end data analysis project, I processed over 7 million Yelp review
 ## Resources
 * YT Source video: Superstore Data Analysis | End-to-End AWS Data Engineering Project for Beginners
 * Instructor: Ankit Bansal
-* Dataset: https://business.yelp.com/data/resources/open-dataset/ 
+* Dataset: https://business.yelp.com/data/resources/open-dataset/
+  
 
 
